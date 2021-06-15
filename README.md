@@ -1,2 +1,2 @@
 # example
-test repository 123
+test repository
